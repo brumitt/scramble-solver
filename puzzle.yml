@@ -1,0 +1,45 @@
+cards:
+        - top    : ['image1','part1']
+          right  : ['image4','part1']
+          bottom : ['image3','part1']
+          left   : ['image2','part2']
+
+        - top    : ['image2','part2']
+          right  : ['image1','part2']
+          bottom : ['image4','part1']
+          left   : ['image3','part2']
+
+        - top    : ['image2','part1']
+          right  : ['image1','part2']
+          bottom : ['image3','part2']
+          left   : ['image1','part1']
+
+        - top    : ['image1','part2']
+          right  : ['image2','part2']
+          bottom : ['image3','part2']
+          left   : ['image4','part2']
+
+        - top    : ['image1','part1']
+          right  : ['image2','part2']
+          bottom : ['image4','part2']
+          left   : ['image3','part2']
+
+        - top    : ['image2','part1']
+          right  : ['image3','part1']
+          bottom : ['image4','part1']
+          left   : ['image1','part1']
+
+        - top    : ['image4','part2']
+          right  : ['image3','part1']
+          bottom : ['image1','part2']
+          left   : ['image4','part1']
+
+        - top    : ['image2','part1']
+          right  : ['image3','part2']
+          bottom : ['image4','part1']
+          left   : ['image2','part2']
+
+        - top    : ['image3','part2']
+          right  : ['image2','part2']
+          bottom : ['image1','part2']
+          left   : ['image4','part2']
